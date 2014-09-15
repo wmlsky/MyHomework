@@ -5,7 +5,7 @@
 /* PRINCIPAL AUTHOR      :   WangMingliang                                    */
 /* SUBSYSTEM NAME        :   wmlMenu                                          */
 /* MODULE NAME           :   wmlMenu                                          */
-/* LANGUAGE	             :   C                                                */
+/* LANGUAGE	         :   C                                                */
 /* TARGET ENVIRONMENT    :   ANY                                              */
 /* DATE OF FIRST RELEASE :   2014/9/13                                        */
 /* DESCRIPTION           :   This is my first homework!                       */
