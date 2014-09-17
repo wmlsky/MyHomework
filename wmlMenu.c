@@ -64,7 +64,7 @@ main()
             printf("%s - %s\n", p->cmd, p->desc);
             if(p->handle != NULL)
             {
-            p->handle();
+                p->handle();
             }
         }
         else
